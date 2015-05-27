@@ -1,8 +1,8 @@
 # Sm4rt-vagrant
 
-Para executar este projeto basta exectar:
+Para executar este projeto basta:
 
-  vagrant up
+  *vagrant up*
 
 Depois que iniciar acesse:
 
