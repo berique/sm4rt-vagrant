@@ -2,7 +2,7 @@
 
 Para executar este projeto basta:
 
-  *vagrant up*
+  **vagrant up**
 
 Depois que iniciar acesse:
 
