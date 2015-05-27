@@ -1,0 +1,1 @@
+# sm4rt-vagrant
